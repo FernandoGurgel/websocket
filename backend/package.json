@@ -1,0 +1,27 @@
+{
+  "name": "webchat-backend",
+  "version": "0.0.1",
+  "description": "Message system using React JS + Express JS + Socket.IO",
+  "main": "index.js",
+  "repository": "https://github.com/FernandoGurgel/websocket",
+  "author": "Fernando Gurgel",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint": "^6.2.2",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "express-async-errors": "^3.1.1",
+    "prettier": "^2.0.5",
+    "ts-node-dev": "^1.0.0-pre.56",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.9.7"
+  }
+}
